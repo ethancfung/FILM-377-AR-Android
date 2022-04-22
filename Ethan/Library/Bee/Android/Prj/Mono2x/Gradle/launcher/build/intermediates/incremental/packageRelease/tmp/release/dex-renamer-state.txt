@@ -1,0 +1,4 @@
+#Fri Apr 22 01:35:47 EDT 2022
+base.0=/Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

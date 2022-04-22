@@ -1,0 +1,308 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-78:12
+MERGED from [:arcore_client:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/ae4e63aee2448ed4859dc95da47269f5/arcore_client/AndroidManifest.xml:17:1-49:12
+MERGED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:2:1-35:12
+MERGED from [:billing-3.0.3:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:2:1-24:12
+MERGED from [:UnityAdsAndroidPlugin:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/667ab3fdbf272abafc4d987f08307b17/UnityAdsAndroidPlugin/AndroidManifest.xml:2:1-11:12
+MERGED from [:UnityARCore:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/6d60de9a4384c0d1a1d0f3edfbc8ccaa/UnityARCore/AndroidManifest.xml:2:1-11:12
+MERGED from [:common:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/c311749ec192028f6df6410475919636/common/AndroidManifest.xml:2:1-12:12
+MERGED from [:ARPresto:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/844551c3c63f4a9ce7cd48a68b017c2e/ARPresto/AndroidManifest.xml:2:1-11:12
+MERGED from [:unityandroidpermissions:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/99cd4938695955e76a15f63d7f33b533/unityandroidpermissions/AndroidManifest.xml:6:1-15:12
+INJECTED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:70-100
+		INJECTED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+		INJECTED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:101-147
+	android:versionCode
+		INJECTED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+		INJECTED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:148-188
+supports-screens
+ADDED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:135-160
+application
+ADDED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:3-121
+MERGED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-76:19
+MERGED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-76:19
+MERGED from [:arcore_client:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/ae4e63aee2448ed4859dc95da47269f5/arcore_client/AndroidManifest.xml:33:5-47:19
+MERGED from [:arcore_client:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/ae4e63aee2448ed4859dc95da47269f5/arcore_client/AndroidManifest.xml:33:5-47:19
+MERGED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:12:5-33:19
+MERGED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:12:5-33:19
+MERGED from [:billing-3.0.3:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:12:5-22:19
+MERGED from [:billing-3.0.3:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:12:5-22:19
+MERGED from [:common:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/c311749ec192028f6df6410475919636/common/AndroidManifest.xml:9:5-10:19
+MERGED from [:common:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/c311749ec192028f6df6410475919636/common/AndroidManifest.xml:9:5-10:19
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:36:9-41
+	android:label
+		ADDED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:16-48
+	android:icon
+		ADDED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:49-80
+	android:banner
+		ADDED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:81-118
+	android:isGame
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:37:9-30
+uses-sdk
+INJECTED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:arcore_client:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/ae4e63aee2448ed4859dc95da47269f5/arcore_client/AndroidManifest.xml:25:5-27:41
+MERGED from [:arcore_client:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/ae4e63aee2448ed4859dc95da47269f5/arcore_client/AndroidManifest.xml:25:5-27:41
+MERGED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:5:5-7:41
+MERGED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:5:5-7:41
+MERGED from [:billing-3.0.3:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:6:5-8:41
+MERGED from [:billing-3.0.3:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:6:5-8:41
+MERGED from [:UnityAdsAndroidPlugin:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/667ab3fdbf272abafc4d987f08307b17/UnityAdsAndroidPlugin/AndroidManifest.xml:7:5-9:41
+MERGED from [:UnityAdsAndroidPlugin:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/667ab3fdbf272abafc4d987f08307b17/UnityAdsAndroidPlugin/AndroidManifest.xml:7:5-9:41
+MERGED from [:UnityARCore:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/6d60de9a4384c0d1a1d0f3edfbc8ccaa/UnityARCore/AndroidManifest.xml:7:5-9:41
+MERGED from [:UnityARCore:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/6d60de9a4384c0d1a1d0f3edfbc8ccaa/UnityARCore/AndroidManifest.xml:7:5-9:41
+MERGED from [:common:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/c311749ec192028f6df6410475919636/common/AndroidManifest.xml:7:5-43
+MERGED from [:common:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/c311749ec192028f6df6410475919636/common/AndroidManifest.xml:7:5-43
+MERGED from [:ARPresto:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/844551c3c63f4a9ce7cd48a68b017c2e/ARPresto/AndroidManifest.xml:7:5-9:41
+MERGED from [:ARPresto:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/844551c3c63f4a9ce7cd48a68b017c2e/ARPresto/AndroidManifest.xml:7:5-9:41
+MERGED from [:unityandroidpermissions:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/99cd4938695955e76a15f63d7f33b533/unityandroidpermissions/AndroidManifest.xml:11:5-13:41
+MERGED from [:unityandroidpermissions:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/99cd4938695955e76a15f63d7f33b533/unityandroidpermissions/AndroidManifest.xml:11:5-13:41
+INJECTED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:12:19-51
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-67
+MERGED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:10:5-67
+MERGED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:14:22-64
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:17:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:20:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:23:9-72
+uses-permission#android.permission.CAMERA
+ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:26:5-65
+	android:name
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:26:22-62
+uses-feature#android.hardware.camera.ar
+ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:28:5-30:35
+	android:required
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:9-32
+	android:name
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:29:9-50
+uses-feature#com.google.ar.core.depth
+ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:31:5-33:35
+	android:required
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:33:9-32
+	android:name
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:32:9-48
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:38:9-56:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:44:13-51
+	android:launchMode
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:42:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:41:13-48
+	android:resizeableActivity
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:43:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:40:13-194
+	android:theme
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:45:13-54
+	android:name
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:46:13-51:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:49:27-74
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:50:17-86
+	android:name
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:50:27-83
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:53:13-55:40
+	android:value
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:55:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:54:17-57
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:58:9-60:33
+	android:value
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:60:13-30
+	android:name
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:59:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:61:9-63:36
+	android:value
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:63:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:62:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:64:9-66:36
+	android:value
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:66:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:65:13-51
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:67:9-69:37
+	android:value
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:69:13-34
+	android:name
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:68:13-56
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:70:9-72:36
+	android:value
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:72:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:71:13-61
+meta-data#com.google.ar.core
+ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:73:9-75:40
+	android:value
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:75:13-37
+	android:name
+		ADDED from [:unityLibrary] /Users/ethanfung/Downloads/Ethan/Ethan/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:74:13-46
+queries
+ADDED from [:arcore_client:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/ae4e63aee2448ed4859dc95da47269f5/arcore_client/AndroidManifest.xml:29:5-31:15
+package#com.google.ar.core
+ADDED from [:arcore_client:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/ae4e63aee2448ed4859dc95da47269f5/arcore_client/AndroidManifest.xml:30:9-54
+	android:name
+		ADDED from [:arcore_client:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/ae4e63aee2448ed4859dc95da47269f5/arcore_client/AndroidManifest.xml:30:18-51
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [:arcore_client:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/ae4e63aee2448ed4859dc95da47269f5/arcore_client/AndroidManifest.xml:36:9-38:41
+	android:value
+		ADDED from [:arcore_client:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/ae4e63aee2448ed4859dc95da47269f5/arcore_client/AndroidManifest.xml:38:13-38
+	android:name
+		ADDED from [:arcore_client:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/ae4e63aee2448ed4859dc95da47269f5/arcore_client/AndroidManifest.xml:37:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [:arcore_client:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/ae4e63aee2448ed4859dc95da47269f5/arcore_client/AndroidManifest.xml:40:9-46:80
+	android:excludeFromRecents
+		ADDED from [:arcore_client:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/ae4e63aee2448ed4859dc95da47269f5/arcore_client/AndroidManifest.xml:43:13-46
+	android:launchMode
+		ADDED from [:arcore_client:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/ae4e63aee2448ed4859dc95da47269f5/arcore_client/AndroidManifest.xml:45:13-43
+	android:exported
+		ADDED from [:arcore_client:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/ae4e63aee2448ed4859dc95da47269f5/arcore_client/AndroidManifest.xml:44:13-37
+	android:configChanges
+		ADDED from [:arcore_client:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/ae4e63aee2448ed4859dc95da47269f5/arcore_client/AndroidManifest.xml:42:13-74
+	android:theme
+		ADDED from [:arcore_client:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/ae4e63aee2448ed4859dc95da47269f5/arcore_client/AndroidManifest.xml:46:13-77
+	android:name
+		ADDED from [:arcore_client:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/ae4e63aee2448ed4859dc95da47269f5/arcore_client/AndroidManifest.xml:41:13-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:9:22-76
+activity#com.unity3d.services.ads.adunit.AdUnitActivity
+ADDED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:13:9-17:74
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:16:13-47
+	android:configChanges
+		ADDED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:15:13-170
+	android:theme
+		ADDED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:17:13-71
+	android:name
+		ADDED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:14:13-74
+activity#com.unity3d.services.ads.adunit.AdUnitTransparentActivity
+ADDED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:18:9-22:86
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:21:13-47
+	android:configChanges
+		ADDED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:20:13-170
+	android:theme
+		ADDED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:22:13-83
+	android:name
+		ADDED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:19:13-85
+activity#com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity
+ADDED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:23:9-27:86
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:26:13-48
+	android:configChanges
+		ADDED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:25:13-170
+	android:theme
+		ADDED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:27:13-83
+	android:name
+		ADDED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:24:13-93
+activity#com.unity3d.services.ads.adunit.AdUnitSoftwareActivity
+ADDED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:28:9-32:74
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:31:13-48
+	android:configChanges
+		ADDED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:30:13-170
+	android:theme
+		ADDED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:32:13-71
+	android:name
+		ADDED from [:UnityAds:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:29:13-82
+uses-permission#com.android.vending.BILLING
+ADDED from [:billing-3.0.3:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [:billing-3.0.3:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:10:22-64
+meta-data#com.google.android.play.billingclient.version
+ADDED from [:billing-3.0.3:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:13:9-15:37
+	android:value
+		ADDED from [:billing-3.0.3:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:15:13-34
+	android:name
+		ADDED from [:billing-3.0.3:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:14:13-73
+activity#com.android.billingclient.api.ProxyBillingActivity
+ADDED from [:billing-3.0.3:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:17:9-21:75
+	android:exported
+		ADDED from [:billing-3.0.3:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:20:13-37
+	android:configChanges
+		ADDED from [:billing-3.0.3:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:19:13-96
+	android:theme
+		ADDED from [:billing-3.0.3:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:21:13-72
+	android:name
+		ADDED from [:billing-3.0.3:] /Users/ethanfung/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:18:13-78
